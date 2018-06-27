@@ -1,0 +1,46 @@
+
+[
+{
+	
+    "product_name": "Phone",
+    "mobile_number": 8904428667,
+    "customer_name": "Bhargav",
+    "email": "bargav92@gmail.com",
+    "address": "AndhraPradesh",
+    "status": "Active",
+    "generate_bill_date": "2018-06-22 T0 4:22:11.019Z",
+    "due_bill_date": "2018-06-22 T0 4:22:11.019Z",
+    "total_amount": 300,
+    "id": 1
+},
+
+{
+	
+    "product_name": "Broadband",
+    "mobile_number": 9066213112,
+    "customer_name": "Naveen",
+    "email": "naveenm@gmail.com",
+    "address": "AndhraPradesh",
+    "status": "InActive",
+    "generate_bill_date": "2018-06-22 T0 4:22:11.019Z",
+    "due_bill_date": "2018-06-22 T0 4:22:11.019Z",
+    "total_amount": 1500,
+    "id": 2
+},
+
+{
+	
+    "product_name": "DigitalTV",
+    "mobile_number": 9848022338,
+    "customer_name": "Mani",
+    "email": "manikanta@gmail.com",
+    "address": "AndhraPradesh",
+    "status": "Active",
+    "generate_bill_date": "2018-06-22 T0 4:22:11.019Z",
+    "due_bill_date": "2018-06-22 T0 4:22:11.019Z",
+    "total_amount": 2300,
+    "id": 3
+},
+
+
+]
